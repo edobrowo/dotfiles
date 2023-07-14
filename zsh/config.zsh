@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-PROMPT='%F{cyan}edobrowo%f %T : '
+PROMPT='%~ : '
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
