@@ -1,5 +1,4 @@
 #!/bin/zsh
-set -e
 
 cd ~/projects/dotfiles
 source git/aliases.zsh
