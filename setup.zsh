@@ -1,7 +1,9 @@
 #!/bin/zsh
 
-cd ~/projects/dotfiles
-source git/aliases.zsh
-source python/aliases.zsh
-source zsh/aliases.zsh
-source zsh/config.zsh
+BASE_PATH=${HOME}/projects/dotfiles/
+
+source ${BASE_PATH}git/aliases.zsh
+source ${BASE_PATH}python/aliases.zsh
+source ${BASE_PATH}zsh/aliases.zsh
+source ${BASE_PATH}zsh/config.zsh
+
