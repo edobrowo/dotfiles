@@ -16,5 +16,5 @@ alias gb='git branch'
 
 # remote
 alias gra='git remote add'
-alias gp='git push origin HEAD'
+alias gp='git push'
 alias gl='git pull'
