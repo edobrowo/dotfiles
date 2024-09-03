@@ -1,7 +1,6 @@
 "   indentation
 set autoindent
 set expandtab
-filetype indent on
 set shiftwidth=4
 set tabstop=4
 

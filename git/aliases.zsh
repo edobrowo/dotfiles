@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# log
+# info
 alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
 alias gs='git status'
 alias gcon='git config'
@@ -16,6 +16,8 @@ alias greb='git rebase -i'
 alias grebb='git rebase'
 alias gres='git restore'
 alias grst='git reset'
+alias grev='git revert'
+alias gst='git stash'
 
 # remote
 alias gra='git remote add'
